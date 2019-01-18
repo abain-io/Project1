@@ -1,4 +1,4 @@
-# Project1
+# UT Austin- Project 1
 Our web application displays a daily horoscope in addition to the NASA astronomy photo of the day.  
 
 
@@ -11,8 +11,8 @@ HTML, CSS, Materialize, JavaScript, NASA Astronomy Photo of the Day API, astrolo
 
 
 # Authors:
-Bernard Goal, 
+Bernard Goal,
+Andrew Bain, 
 Kevin Pena, 
 Adam Jack, 
-Andrew Bain, 
 Keely Muench
